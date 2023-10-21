@@ -6,7 +6,8 @@ List 2:
 Loops<br>
 List 3:
 Functions<br>
-List 4: 4. Arrays
+List 4: 
+4. Arrays <br>
 List 5:
 Matrices<br>
 List 6:
