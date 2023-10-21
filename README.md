@@ -1,24 +1,22 @@
 ## These are my exercise lists from my university course for learning C and low level concepts, like pointers and dynamic memory allocation.
 
 List 1:
-Conditional
+Conditional <br>
 List 2:
-2. Loops
+Loops<br>
 List 3:
-3. Functions
-List 4:
-4. Arrays
+Functions<br>
+List 4: 4. Arrays
 List 5:
-5. Matrices
+Matrices<br>
 List 6:
-6. Strings
+Strings<br>
 List 7:
-7. Records, Enumerations, and Typedef
+Records, Enumerations, and Typedef <br>
 List 8:
-8. Pointers
+Pointers <br>
 List 9:
-9. Dynamic Allocation/Memory Management
+Dynamic Allocation/Memory Management <br>
 List 10:
-10. Recursion
-List 11:
-11. Modularization and File Handling
+Recursion <br>
+List 11: 11. Modularization and File Handling
